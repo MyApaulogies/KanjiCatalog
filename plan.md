@@ -25,5 +25,9 @@
        - name / meaning
        - complete vocab list (all words / phrases in dictionary that contain this kanji)
          - each word tagged with yomichan tags
+         - kanji
+         - kana
+         - pitch accent
+         - links to alternate kanji choices
        - complete radical dropdown list
    - utility like kana romaji -> kana conversion
